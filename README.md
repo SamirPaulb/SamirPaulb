@@ -1,16 +1,12 @@
-### Hi there 👋
+I'm Samir Paul 
 
-<!--
-**SamirPaul1/SamirPaul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Engineering Undergraduate student
+- 💡 An ML & Open Source enthusiast
+- 🔭 I’m currently working on some of my cool side projects based on Web Development and Machine Learning.
+- ✍️ I’m currently learning.
+- 💻 Doing Competitive Coding on Codeforces and Codechef!
+- 👯 I’m looking to collaborate on GitHub
+- 😄 Pronouns:  He/Him
+- 👇 You can reach me with my personal email at  paul.samir.2002@gmail.com and the links below:
+- [LinkedIn](https://www.linkedin.com/in/samirpaul/)
+- [Twitter](https://twitter.com/SamirPaul01)
