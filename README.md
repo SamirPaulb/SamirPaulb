@@ -1,4 +1,5 @@
-I'm Samir Paul 
+
+### Hi There 👋,  I'm Samir Paul 
 
 - 🎓 Engineering Undergraduate student
 - 💡 An ML & Open Source enthusiast
