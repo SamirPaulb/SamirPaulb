@@ -1,5 +1,5 @@
 
-### Hi There 👋,  I'm Samir Paul 
+### Hi There 👋,  I'm [Samir Paul](https://github.com/SamirPaul1) 
 
 - 🎓 Engineering Undergraduate student
 - 💡 An ML & Open Source enthusiast
