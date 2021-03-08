@@ -108,7 +108,7 @@
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github._
+_NOTE: The top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub._
 
 <a href="https://github.com/SamirPaul1">
 <img align="center" alt="Samir's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SamirPaul1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
