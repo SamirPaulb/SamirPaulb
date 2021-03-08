@@ -12,8 +12,7 @@
 - 👇 You can reach me with my personal email at  [Email](paul.samir.2002@gmail.com)
 
 
-
-
+---
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
