@@ -16,16 +16,14 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Samir | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Samir | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Samir | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Samir | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+
+
+[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Samir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Samir | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+
 
 <br />
-
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p>
 
 ---
 
@@ -107,26 +105,27 @@
 
 
 
+
 ---
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github-readme-stats.SamirPaul1.vercel.app/api?username=SamirPaul1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.SamirPaul1.vercel.app/api?username=SamirPaul1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.SamirPaul1.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.SamirPaul1.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" />
+<a href="https://github.com/SamirPaul1">
+<img align="center" alt="Samir's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SamirPaul1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/SamirPaul1">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" />
 </a>
+
 
 ---
 
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=SamirPaul1.SamirPaul1" alt="Visitors">                     
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
 </p>
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/samirpaul
-[gmail]: mailto:paul.samir.2002@gmail.com
-[whatsapp]: https://wa.me/8388962577
 [twitter]: https://twitter.com/SamirPaul01
 [facebook]: https://www.facebook.com/SamirPaul01
+[linkedin]: https://www.linkedin.com/in/samirpaul
+
