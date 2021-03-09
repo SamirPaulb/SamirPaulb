@@ -2,14 +2,14 @@
 ## Hi There,  I'm [Samir Paul](https://github.com/SamirPaul1) <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 
-- 🎓 Engineering Undergraduate student
-- 💡 An ML & Open Source enthusiast
+- 🎓 Engineering Undergraduate student.
+- 💡 An ML & Open Source enthusiast.
 - 🔭 I’m currently working on some of my cool side projects based on Web Development and Machine Learning.
 - ✍️ I’m currently learning.
 - 💻 Doing Competitive Coding on Codeforces and Codechef!
-- 👯 I’m looking to collaborate on GitHub
+- 👯 I’m looking to collaborate on GitHub.
 - 😄 Pronouns:  He/Him
-- 👇 You can reach me with my personal [Email](paul.samir.2002@gmail.com)
+- 👇 You can reach me with my personal [Email.](paul.samir.2002@gmail.com)
 
 
 ---
