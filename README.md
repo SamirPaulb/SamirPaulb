@@ -50,7 +50,7 @@
 
 ---
 
-_NOTE: The top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub._
+_NOTE: The above languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub._
 
 
 ---
