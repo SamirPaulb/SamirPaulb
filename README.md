@@ -19,10 +19,10 @@
 
 
 
-[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Samir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Samir | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-
+[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Samir | Twitter" width="22px" src="https://cdn3.vectorstock.com/i/1000x1000/04/47/twitter-logo-icon-vector-27990447.jpg" />][twitter]
+[<img align="left" alt="Samir | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
+[<img align="left" alt="Samir | Whatsapp" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />][whatsapp]
 
 <br />
 
@@ -59,4 +59,4 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 [twitter]: https://twitter.com/SamirPaul01
 [facebook]: https://www.facebook.com/SamirPaul01
 [linkedin]: https://www.linkedin.com/in/samirpaul
-
+[whatsapp]: https://wa.me/8388962577
