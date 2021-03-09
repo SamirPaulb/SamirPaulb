@@ -42,7 +42,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirpaul1" alt="samirpaul1" /></a> </p>
 
 ---
 
