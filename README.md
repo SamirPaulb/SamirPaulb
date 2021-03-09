@@ -19,8 +19,8 @@
 
 
 
-[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Samir | Twitter" width="22px" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png" />][twitter]
+[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10p0O8IyHtJh9FcOZYA3mf6lzNxzDsZuv_g&usqp=CAU" />][linkedin]
+[<img align="left" alt="Samir | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rUvTM5NkjFnDF7TjDo6O-wIJrej9ezNK8Q&usqp=CAU" />][twitter]
 [<img align="left" alt="Samir | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
 [<img align="left" alt="Samir | Whatsapp" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" />][whatsapp]
 
@@ -42,7 +42,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirpaul1" alt="samirpaul1" /></a> </p>
 
 ---
 
