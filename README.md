@@ -22,7 +22,7 @@
 [<img align="left" alt="Samir | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rUvTM5NkjFnDF7TjDo6O-wIJrej9ezNK8Q&usqp=CAU" />][twitter]
 [<img align="left" alt="Samir | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
 [<img align="left" alt="Samir | Whatsapp" height="22px" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-11.png" />][whatsapp]
-
+[<img align="left" alt="Samir | Gmail" height="22px" src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest?cb=20201214214241" />][Gmail]
 <br />
 
 ---
@@ -59,3 +59,4 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 [facebook]: https://www.facebook.com/SamirPaul01
 [linkedin]: https://www.linkedin.com/in/samirpaul
 [whatsapp]: https://wa.me/8388962577
+[Gmail]: mailto:paul.samir.2002@gmail.com
