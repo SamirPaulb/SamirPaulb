@@ -33,6 +33,7 @@
 <a href="https://github.com/SamirPaul1">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" />
 </a>
+
 ---
 
 <p align=center>                           
