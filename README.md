@@ -28,11 +28,11 @@
 
 ---
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/SamirPaul1/github-profile-trophy)
-
-
-
+<a href="https://github.com/SamirPaul1">
+<img align="center" alt="Samir's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SamirPaul1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/SamirPaul1">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" />
+</a>
 ---
 
 <p align=center>                           
@@ -41,13 +41,7 @@
 
 ---
 
-
-<a href="https://github.com/SamirPaul1">
-<img align="center" alt="Samir's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SamirPaul1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/SamirPaul1">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" />
-</a>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/SamirPaul1/github-profile-trophy)
 
 ---
 
