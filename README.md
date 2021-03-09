@@ -10,8 +10,7 @@
 - 💻 Doing Competitive Coding on Codeforces and Codechef!
 - 👯 I’m looking to collaborate on GitHub.
 - 😄 Pronouns:  He/Him
-- 👇 You can reach me with my personal [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.samir.2002@gmail.com)
-
+- 👇 You can reach me with my personal [Email.](mailto:paul.samir.2002@gmail.com)
 
 ---
 
