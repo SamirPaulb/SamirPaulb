@@ -1,5 +1,5 @@
 
-## Hi There,  I'm [Samir Paul](https://github.com/SamirPaul1) <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+## Hi There,  I'm [Samir Paul](https://github.com/SamirPaul1) <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/HiThere.gif" height="32" />
 
 
 
@@ -14,7 +14,7 @@
 
 ---
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### Connect with me: <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/ConnectWithMe.gif" height="32">
 
 
 
@@ -54,6 +54,13 @@ _NOTE: The above languages do not indicate my skill level or something like that
 
 
 ---
+<p align=center>                           
+<img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/ThankYou.gif" height="162" />
+</p>
+
+---
+
+
 
 [twitter]: https://twitter.com/SamirPaul01
 [facebook]: https://www.facebook.com/SamirPaul01
