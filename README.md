@@ -18,8 +18,8 @@
 
 
 
-[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Linkedin1.png" />][linkedin]
-[<img align="left" alt="Samir | Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Twitter1.jpeg" />][twitter]
+[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/LINKEDIN.svg" />][linkedin]
+[<img align="left" alt="Samir | Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/TWITTER.svg" />][twitter]
 [<img align="left" alt="Samir | Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Facebook1.png" />][facebook]
 [<img align="left" alt="Samir | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/WhatsApp1.png" />][whatsapp]
 [<img align="left" alt="Samir | Gmail" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Gmail1.png" />][Gmail]
