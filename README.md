@@ -23,6 +23,10 @@
 [<img align="left" alt="Samir | Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Facebook1.png" />][facebook]
 [<img align="left" alt="Samir | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/WhatsApp1.png" />][whatsapp]
 [<img align="left" alt="Samir | Gmail" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Gmail1.png" />][Gmail]
+[<img align="left" alt="Samir | LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Leetcode.jpg" />][LeetCode]
+[<img align="left" alt="Samir | Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Hackerrank.jpg" />][HackerRank]
+[<img align="left" alt="Samir | CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/CodeChef.jpg" />][CodeChef]
+
 <br />
 
 ---
@@ -67,3 +71,6 @@ _NOTE: The above languages do not indicate my skill level or something like that
 [linkedin]: https://www.linkedin.com/in/samirpaul
 [whatsapp]: https://wa.me/8388962577
 [Gmail]: mailto:paul.samir.2002@gmail.com
+[LeetCode]: https://leetcode.com/samirpaul2/
+[HackerRank]: https://www.hackerrank.com/samirpaul1
+[CodeChef]: https://www.codechef.com/users/samirpaul1
