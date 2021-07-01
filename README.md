@@ -76,7 +76,7 @@ _NOTE: The above languages do not indicate my skill level or something like that
 [twitter]: https://twitter.com/SamirPaul01
 [facebook]: https://www.facebook.com/SamirPaul01
 [linkedin]: https://www.linkedin.com/in/samirpaul
-[whatsapp]: https://wa.me/**********
+[whatsapp]: https://api.whatsapp.com/send/?phone=..........&text&app_absent=0
 [Gmail]: mailto:samirpaulb@gmail.com
 [LeetCode]: https://leetcode.com/samirpaul2/
 [HackerRank]: https://www.hackerrank.com/samirpaul1
