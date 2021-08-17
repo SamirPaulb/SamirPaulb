@@ -123,10 +123,6 @@
 </code>](https://www.kernel.org/)
 
 
----
-<p align=center>                           
-<img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/THANK%2BYOU%2BFOR%2BVISITING.gif" height="130" />
-</p>
 
 ---
 
