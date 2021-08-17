@@ -1,18 +1,6 @@
-
-## Hi There,  I'm [Samir Paul](https://github.com/SamirPaul1) <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/HiThere.gif" height="32" />
-
+<p align="center"><img width=100% src="https://raw.githubusercontent.com/TestSamir/Samir/main/1.gif"></p>
 
 
-- 🎓 Engineering Undergraduate student.
-- 💡 An ML & Open Source enthusiast.
-- 🔭 I’m currently working on some of my cool side projects based on Web Development and Machine Learning.
-- ✍️ I’m currently learning.
-- 💻 Doing Competitive Coding on Codeforces and Codechef!
-- 👯 I’m looking to collaborate on GitHub.
-- 😄 Pronouns:  He/Him
-- 👇 You can reach me with my [Email ✉️](mailto:samirpaulb@gmail.com)
-
----
 
 ### Connect with me: <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/ConnectWithMe.gif" height="32">
 
