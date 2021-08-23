@@ -133,6 +133,6 @@
 [linkedin]: https://www.linkedin.com/in/samirpaul
 [whatsapp]: https://api.whatsapp.com/send/?phone=..........&text&app_absent=0
 [Gmail]: mailto:samirpaulb@gmail.com
-[LeetCode]: https://leetcode.com/samirpaul2/
+[LeetCode]: https://leetcode.com/samirpaul1
 [HackerRank]: https://www.hackerrank.com/samirpaul1
 [CodeChef]: https://www.codechef.com/users/samirpaul1
