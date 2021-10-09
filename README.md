@@ -4,7 +4,7 @@
 
 
 
-### Connect with me: <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/connect.gif" height="33"> </a>
+### Connect with me: <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/connect.gif" height="32"> </a>
 
 
 
