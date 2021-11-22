@@ -130,7 +130,7 @@
 
 [Gmail]: mailto:samirpaulb@gmail.com
 [linkedin]: https://www.linkedin.com/in/samirpaul
-[instagram]: https://www.instagram.com/samirpaulb
+[instagram]: https://www.instagram.com/SamirPaulb
 [facebook]: https://www.facebook.com/SamirPaulb
 [twitter]: https://twitter.com/SamirPaulb
 [whatsapp]: https://api.whatsapp.com/send/?phone=..........&text&app_absent=0
