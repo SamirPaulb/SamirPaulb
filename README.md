@@ -8,11 +8,11 @@
 
 
 
-[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/LINKEDIN.svg" />][linkedin]
 [<img align="left" alt="Samir | Gmail" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Gmail1.png" />][Gmail]
-
-[<img align="left" alt="Samir | Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/TWITTER.svg" />][twitter]
+[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/LINKEDIN.svg" />][linkedin]
+[<img align="left" alt="Samir | Instagram" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Instagram_logo.png" />][instagram]
 [<img align="left" alt="Samir | Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Facebook1.png" />][facebook]
+[<img align="left" alt="Samir | Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/TWITTER.svg" />][twitter]
 [<img align="left" alt="Samir | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/WhatsApp1.png" />][whatsapp]
 [<img align="left" alt="Samir | LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Leetcode.jpg" />][LeetCode]
 [<img align="left" alt="Samir | CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/CodeChef.jpg" />][CodeChef]
@@ -128,11 +128,12 @@
 
 
 
-[twitter]: https://twitter.com/SamirPaulb
-[facebook]: https://www.facebook.com/SamirPaulb
-[linkedin]: https://www.linkedin.com/in/samirpaul
-[whatsapp]: https://api.whatsapp.com/send/?phone=..........&text&app_absent=0
 [Gmail]: mailto:samirpaulb@gmail.com
+[linkedin]: https://www.linkedin.com/in/samirpaul
+[instagram]: https://www.instagram.com/samirpaulb
+[facebook]: https://www.facebook.com/SamirPaulb
+[twitter]: https://twitter.com/SamirPaulb
+[whatsapp]: https://api.whatsapp.com/send/?phone=..........&text&app_absent=0
 [LeetCode]: https://leetcode.com/samirpaul1
 [HackerRank]: https://www.hackerrank.com/samirpaul1
 [CodeChef]: https://www.codechef.com/users/samirpaul1
