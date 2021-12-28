@@ -16,7 +16,7 @@
 [<img align="left" alt="Samir | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/whatsapp.png" />][whatsapp]
 [<img align="left" alt="Samir | LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/leetcode.png" />][leetcode]
 [<img align="left" alt="Samir | CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/codechef.png" />][codechef]
-[<img align="left" alt="Samir | Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/hackerrank.jpg" />][hackerrank]
+[<img align="left" alt="Samir | Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/hackerrank.png" />][hackerrank]
 
 <br />
 
