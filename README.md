@@ -2,7 +2,7 @@
 
 
 
-### Connect with me: <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="31"> </a>
+### Connect with me: <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="30"> </a>
 
 
 
