@@ -1,6 +1,4 @@
-<p align="center"><img width=100% src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/1.gif"></p> 
-
-
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/1.gif" /></a>
 
 
 
@@ -45,7 +43,7 @@
 </p>
 
 
----
+
 
 ### Languages and Tools 🛠
 [<code>
