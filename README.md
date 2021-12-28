@@ -1,26 +1,29 @@
-<p align="center"><img width=100% src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/1.gif"></p> 
+<p align="center"><img width=100% src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/1.gif"></p> 
 
 
 
 
 
-### Connect with me: <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/connect.gif" height="32"> </a>
+### Connect with me: <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="32"> </a>
 
 
 
-[<img align="left" alt="Samir | Gmail" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/gmail.png" />][gmail]
-[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/linkedin.svg" />][linkedin]
-[<img align="left" alt="Samir | Instagram" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/instagram.png" />][instagram]
-[<img align="left" alt="Samir | Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/facebook.png" />][facebook]
-[<img align="left" alt="Samir | Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/twitter.svg" />][twitter]
-[<img align="left" alt="Samir | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/whatsapp.png" />][whatsapp]
-[<img align="left" alt="Samir | LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/leetcode.png" />][leetcode]
-[<img align="left" alt="Samir | CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/codechef.png" />][codechef]
-[<img align="left" alt="Samir | Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/hackerrank.png" />][hackerrank]
+[<img align="left" alt="Samir | Gmail" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/gmail.png" />][gmail]
+[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="Samir | Instagram" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/instagram.png" />][instagram]
+[<img align="left" alt="Samir | Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/facebook.png" />][facebook]
+[<img align="left" alt="Samir | Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/twitter.png" />][twitter]
+[<img align="left" alt="Samir | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/whatsapp.png" />][whatsapp]
+[<img align="left" alt="Samir | LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/leetcode.png" />][leetcode]
+[<img align="left" alt="Samir | CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/codechef.png" />][codechef]
+[<img align="left" alt="Samir | Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/hackerrank.png" />][hackerrank]
 
 <br />
 
----
+
+
+<a href="https://samirpaul1.github.io/link/"> <p align="center"><img width=100% src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif"></p> </a>
+
 
 
 
@@ -41,9 +44,6 @@
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
 </p>
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
