@@ -34,7 +34,9 @@
 
 <details>
   <summary><b>Languages and Tools:</b> 🛠 </summary>
+  
   <b> </b> 
+  
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
@@ -93,9 +95,11 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
-  <p align=center>                           
+  
+<p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
 </p>
+  
   
 </details>
 
