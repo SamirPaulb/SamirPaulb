@@ -20,8 +20,8 @@
 
 
 
-<a href="https://samirpaul1.github.io/link/"> <p align="center"><img width=100% src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif"></p> </a>
 
+<a href="https://samirpaul1.github.io/link/"><img width="100%" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif" /></a>
 
 
 
