@@ -1,12 +1,19 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/1.gif" /></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/samirpaul.gif" /></a>
 
 
 
-### Connect with me: <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="30"> </a>
+<b>About Me:</b>👨🏻‍💻&nbsp; 
+
+  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
+  💡 &nbsp;Some technologies I enjoy working with include Python3 • MySQL • Git • HTML5 • CSS • C • Linux.\
+  🌱 &nbsp;I'm on track for learning more about Algorithms, Software Development and Systems Design.\
+  ✉️ &nbsp;You can shoot me an email at samirpaulb@gmail.com! I'll try to respond as soon as I can. 
 
 
 
-[<img align="left" alt="Samir | Gmail" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/gmail.png" />][gmail]
+<b>Connect with me:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="30"> </a>
+
+
 [<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
 [<img align="left" alt="Samir | Instagram" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/instagram.png" />][instagram]
 [<img align="left" alt="Samir | Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/facebook.png" />][facebook]
@@ -20,32 +27,14 @@
 
 
 
-
 <a href="https://samirpaul1.github.io/link/"><img width="100%" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif" /></a>
 
 
 
 
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=SamirPaul1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=SamirPaul1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" />
-</a>
-
-
-
-
-
----
-
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
-</p>
-
-
-
-
-### Languages and Tools 🛠
+<details>
+  <summary><b>Languages and Tools:</b> 🛠 </summary>
+  <b> </b> 
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
@@ -104,13 +93,16 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
+  <p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
+</p>
+  
+</details>
 
 
 
 
 
-
-[gmail]: mailto:samirpaulb@gmail.com
 [linkedin]: https://www.linkedin.com/in/SamirPaul
 [instagram]: https://www.instagram.com/SamirPaulb
 [facebook]: https://www.facebook.com/SamirPaulb
