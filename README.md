@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/samirpaul.gif" /></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/samirpaul.gif" /></a>
 
 
 
