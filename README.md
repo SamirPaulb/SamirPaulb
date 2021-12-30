@@ -11,7 +11,7 @@
 
 
 
-<b>Connect With Me:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="30"> </a>
+<b>Connect With Me:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="31"> </a>
 
 
 [<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
@@ -27,7 +27,7 @@
 
 
 
-<a href="https://samirpaul1.github.io/link/"><img width="100%" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif" /></a>
+<a href="#"><img width="100%" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif" /></a>
 
 
 
@@ -59,7 +59,7 @@
 </p>
   
   
-<b>Languages And Tools:</b>🛠
+<b>Languages And Tools:</b>🛠 &nbsp;
   
 <b> </b>  
 
