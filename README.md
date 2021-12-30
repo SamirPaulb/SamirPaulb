@@ -5,9 +5,9 @@
 <b>About Me:</b>👨🏻‍💻&nbsp; 
 
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
-  💡 &nbsp;Some technologies I enjoy working with include Python3 • MySQL • Git • HTML5 • CSS • C • Linux.\
-  🌱 &nbsp;I'm on track for learning more about Algorithms, Software Development and Systems Design.\
-  ✉️ &nbsp;You can shoot me an email at samirpaulb@gmail.com! I'll try to respond as soon as I can. 
+  💡 &nbsp;Some technologies I enjoy working with include *Python3 • MySQL • Git • HTML5 • CSS • C • Linux*.\
+  🌱 &nbsp;I'm on track for learning more about *Algorithms • Software Development • Systems Design*.\
+  ✉️ &nbsp;You can shoot me an email at *samirpaulb@gmail.com*! I'll try to respond as soon as I can. 
 
 
 
@@ -33,9 +33,37 @@
 
 
 <details>
-  <summary><b>Languages And Tools:</b> 🛠 </summary>
+  <summary><b>GitHub Stats:</b>&#x1f4c8; </summary>
   
   <b> </b> 
+  
+  
+<p align="center">
+<table>
+<tr>
+  
+  <td>
+  <a href="https://github.com/SamirPaul1/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="180rem" />
+  </a>
+  </td>
+    
+  <td> 
+  <a href="https://github.com/SamirPaul1/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" height="180rem"/>
+  </a>
+  </td>
+    
+</tr>
+</table>
+</p>
+  
+  
+<b>Languages And Tools:</b>🛠
+  
+<b> </b>  
+
+<p align="center">
   
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
@@ -95,9 +123,11 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
+</p>  
+
   
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
+  <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
 </p>
   
   
