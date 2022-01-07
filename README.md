@@ -44,7 +44,7 @@
   
   <td>
   <a href="https://github.com/SamirPaul1/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="180rem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&theme=radical&count_private=true&include_all_commits=true" height="180rem" />
   </a>
   </td>
     
