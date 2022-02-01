@@ -140,7 +140,7 @@
 [instagram]: https://www.instagram.com/SamirPaulb
 [facebook]: https://www.facebook.com/SamirPaulb
 [twitter]: https://twitter.com/intent/follow?screen_name=SamirPaulb
-[whatsapp]: https://api.whatsapp.com/send/?phone=..........
+[whatsapp]: https://wa.me/91**********?text=Hello%20Samir
 [leetcode]: https://leetcode.com/samirpaul1
 [hackerrank]: https://www.hackerrank.com/samirpaul1
 [codechef]: https://www.codechef.com/users/samirpaul1
