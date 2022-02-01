@@ -2,7 +2,7 @@
 
 
 
-<b>About Me:</b>👨🏻‍💻&nbsp; 
+<b>*About Me*:</b>👨🏻‍💻&nbsp; 
 
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
   💡 &nbsp;Some technologies I enjoy working with include *Python3 • MySQL • Git • HTML5 • CSS • C • Linux*.\
@@ -11,17 +11,17 @@
 
 
 
-<b>Connect With Me:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="28"> </a>
+<b>*Connect With Me*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="25"> </a>
 
 
-[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Samir | Instagram" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/instagram.png" />][instagram]
-[<img align="left" alt="Samir | Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/facebook.png" />][facebook]
-[<img align="left" alt="Samir | Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/twitter.png" />][twitter]
-[<img align="left" alt="Samir | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/whatsapp.png" />][whatsapp]
-[<img align="left" alt="Samir | LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/leetcode.png" />][leetcode]
-[<img align="left" alt="Samir | CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/codechef.png" />][codechef]
-[<img align="left" alt="Samir | Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/hackerrank.png" />][hackerrank]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/instagram.png" />][instagram]
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/facebook.png" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/twitter.png" />][twitter]
+[<img align="left" alt="Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/whatsapp.png" />][whatsapp]
+[<img align="left" alt="LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/leetcode.png" />][leetcode]
+[<img align="left" alt="CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/codechef.png" />][codechef]
+[<img align="left" alt="Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/hackerrank.png" />][hackerrank]
 
 <br />
 
@@ -32,8 +32,7 @@
 
 
 
-<details>
-  <summary><b>GitHub Stats:</b>&#x1f4c8; </summary>
+<b>*GitHub Stats*:</b>&#x1f4c8; 
   
   <b> </b> 
   
@@ -59,7 +58,7 @@
 </p>
   
   
-<b>Languages And Tools:</b>🛠 &nbsp;
+<b>*Languages And Tools*:</b>🛠 &nbsp;
   
 <b> </b>  
 
@@ -131,7 +130,7 @@
 </p>
   
   
-</details>
+  
 
 
 
