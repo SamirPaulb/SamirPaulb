@@ -5,13 +5,13 @@
 <b>*About Me*:</b>👨🏻‍💻&nbsp; 
 
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
-  💡 &nbsp;Some technologies I enjoy working with include *Python3 • MySQL • Git • HTML5 • CSS • C • Linux*.\
-  🌱 &nbsp;I'm on track for learning more about *Algorithms • Software Development • Systems Design*.\
+  🌱 &nbsp;I'm on track for learning more about ```Data Structures and Algorithm``` • ```Software Development``` • ```Systems Design```.\
+  💡 &nbsp;Some technologies I enjoy working with include ```Python3``` • ```MySQL``` • ```Git``` • ```HTML5``` • ```CSS``` • ```C``` • ```Linux```.\
   ✉️ &nbsp;Get in touch with me via email at *samirpaulb@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
 
 
 
-<b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="20"> </a>
+<b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="19"> </a>
 
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
