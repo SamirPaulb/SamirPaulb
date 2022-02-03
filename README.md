@@ -7,21 +7,19 @@
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
   💡 &nbsp;Some technologies I enjoy working with include *Python3 • MySQL • Git • HTML5 • CSS • C • Linux*.\
   🌱 &nbsp;I'm on track for learning more about *Algorithms • Software Development • Systems Design*.\
-  ✉️ &nbsp;You can shoot me an email at *samirpaulb@gmail.com*! I'll try to respond as soon as I can. 
+  ✉️ &nbsp;Get in touch with me via email at *samirpaulb@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
 
 
 
-<b>*Connect With Me*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="25"> </a>
+<b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="20"> </a>
 
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/instagram.png" />][instagram]
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/facebook.png" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/twitter.png" />][twitter]
-[<img align="left" alt="Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/whatsapp.png" />][whatsapp]
 [<img align="left" alt="LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/leetcode.png" />][leetcode]
 [<img align="left" alt="CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/codechef.png" />][codechef]
 [<img align="left" alt="Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/hackerrank.png" />][hackerrank]
+[<img align="left" alt="GeeksforGeeks" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/gfg.png" />][geeksforgeeks]
 
 <br />
 
@@ -144,3 +142,4 @@
 [leetcode]: https://leetcode.com/samirpaul1
 [hackerrank]: https://www.hackerrank.com/samirpaul1
 [codechef]: https://www.codechef.com/users/samirpaul1
+[geeksforgeeks]: https://auth.geeksforgeeks.org/user/samirpaul1/practice
