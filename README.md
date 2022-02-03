@@ -63,58 +63,61 @@
 <p align="center">
   
 [<code  >
-<img alt="python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
 </code>](#)
 [<code >
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
 </code>](#)
 [<code >
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
+<img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
 </code>](#)
 [<code >
-<img alt="django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
 </code>](#)
 [<code >
-<img alt="java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
 </code>](#)
 [<code >
-<img alt="html5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
-</code>](#)
-[<code >
-<img alt="css3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
-</code>](#)
-[<code >
-<img alt="javascript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
 </code>](#)
 [<code >
 <img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
 </code>](#)
 [<code >
-<img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
 </code>](#)
 [<code >
-<img alt="powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
 </code>](#)
 [<code >
-<img alt="sublime-text" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
+<img alt="Django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
 </code>](#)
 [<code >
-<img alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
+<img alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/react.png">
 </code>](#)
 [<code >
-<img alt="intellij idea" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/intelejidea.png" />
+<img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
 </code>](#)
 [<code >
-<img alt="pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
+<img alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
 </code>](#)
 [<code >
-<img alt="windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
+<img alt="VS-Code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
 </code>](#)
 [<code >
-<img alt="macos" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
+<img alt="Intellij" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/intelejidea.png" />
+</code>](#)
+[<code >
+<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
+</code>](#)
+[<code >
+<img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
+</code>](#)
+[<code >
+<img alt="MacOS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
 </code>](#)
 [<code>
-<img alt="linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
+<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
 </code>](#)
 
 </p>  
