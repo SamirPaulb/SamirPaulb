@@ -11,7 +11,7 @@
 
 
 
-<b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="19"> </a>
+<b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/web.gif" height="17"> </a>
 
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
