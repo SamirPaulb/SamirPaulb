@@ -14,8 +14,8 @@
 <b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/web.gif" height="17"> </a>
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/twitter.svg" />][twitter]
 [<img align="left" alt="LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/leetcode.png" />][leetcode]
 [<img align="left" alt="CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/codechef.png" />][codechef]
 [<img align="left" alt="Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/hackerrank.png" />][hackerrank]
