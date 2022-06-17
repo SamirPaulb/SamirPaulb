@@ -4,7 +4,7 @@
 
 
 
-<b>*About Me*:</b>👨🏻‍💻&nbsp; 
+<b>*About Me*:</b> 
 
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
   💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
@@ -13,23 +13,18 @@
   ✉️ &nbsp;Get in touch with me via email at *samirpaulb@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
 
 
-<b>*Connect With Me*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="assets/handshake.svg" height="22"> </a>
+<b>*Connect With Me*:</b> 
 
 
-[<img align="left" alt="LinkedIn" width="27px" src="assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="27px" src="assets/twitter.svg" />][twitter]
-[<img align="left" alt="Email" width="27px" src="assets/gmail.svg" />][email]
+[<img align="left" alt="LinkedIn" width="25px" src="assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="25px" src="assets/twitter.svg" />][twitter]
 
+<br />
 <br />
 
 
 
-<br />
-
-
-
-
-<b>*GitHub Stats*:</b>&#x1f4c8; 
+<b>*GitHub Stats*:</b> 
   
   <b> </b> 
   
@@ -53,7 +48,7 @@
 </p>
   
   
-<b>*Languages And Tools*:</b>🛠 &nbsp;
+<b>*Languages And Tools*:</b>
   
 <b> </b>  
 
