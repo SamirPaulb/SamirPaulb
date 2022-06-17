@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"> <img src="assets/samir.svg"/ height = "50%"> <img src="assets/paul.svg" height = "50%"/> </a>
+  <a href="#"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
 </p>
 
 
