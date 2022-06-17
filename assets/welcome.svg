@@ -1,9 +1,9 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 300 23'
+    viewBox='0 0 400 25'
     style='background-color: #00000000;'
-    width='300px' height='23px'>
+    width='400px' height='25px'>
 
     <style>
 	/* From database 2021-04-29 */
@@ -17,9 +17,9 @@
 	
     <path id='path0'>
         <animate id='d0' attributeName='d' begin='0s;d1.end' dur='3300ms'
-            values='m0,11.5 h0 ; m0,11.5 h300 ; m0,11.5 h0' keyTimes='0;0.8;1' />
+            values='m0,12.5 h0 ; m0,12.5 h400 ; m0,12.5 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"Lobster", monospace' fill='#3EA7FF' font-size='22'
+    <text font-family='"Lobster", monospace' fill='#2A90FF' font-size='20'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
@@ -29,13 +29,13 @@
 
     <path id='path1'>
         <animate id='d1' attributeName='d' begin='d0.end' dur='3300ms'
-            values='m0,11.5 h0 ; m0,11.5 h300 ; m0,11.5 h0' keyTimes='0;0.8;1' />
+            values='m0,12.5 h0 ; m0,12.5 h400 ; m0,12.5 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"Lobster", monospace' fill='#3EA7FF' font-size='22'
+    <text font-family='"Lobster", monospace' fill='#2A90FF' font-size='20'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            Welcome to my GitHub Profile! 
+            Welcome to my GitHub Profile!
         </textPath>
     </text>
 
