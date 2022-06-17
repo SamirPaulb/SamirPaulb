@@ -16,15 +16,15 @@
 <b>*Connect With Me*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="assets/handshake.svg" height="22"> </a>
 
 
-[<img align="left" alt="LinkedIn" width="25px" src="assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="25px" src="assets/twitter.svg" />][twitter]
-[<img align="left" alt="Email" width="25px" src="assets/gmail.svg" />][email]
+[<img align="left" alt="LinkedIn" width="27px" src="assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="27px" src="assets/twitter.svg" />][twitter]
+[<img align="left" alt="Email" width="27px" src="assets/gmail.svg" />][email]
 
 <br />
 
 
 
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif" /></a>
+<br />
 
 
 
