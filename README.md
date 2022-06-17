@@ -9,7 +9,8 @@
   🎓 &nbsp; I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
   💡 &nbsp; Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
   🌱 &nbsp; I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  👨‍💻 &nbsp; I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).
+  👨‍💻 &nbsp; I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
+  ✉️ &nbsp; Get in touch with me via email at *samirpaulb@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
 
 
 <b>*Connect With Me*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="assets/handshake.svg" height="22"> </a>
