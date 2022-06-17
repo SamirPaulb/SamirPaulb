@@ -15,7 +15,6 @@
 
 <b>*Connect With Me*:</b> 
 
-
 [<img align="left" alt="LinkedIn" width="25px" src="assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="25px" src="assets/twitter.svg" />][twitter]
 
@@ -34,7 +33,7 @@
 <tr>
   
   <td>
-  <a href="https://github.com/SamirPaul1/">
+  <a href="https://github.com/SamirPaul1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
   </a>
   </td>
