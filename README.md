@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/samirpaul.gif" /></a>
+<p align="center">
+  <a href="#"> <img src="assets/samir.svg"/ height = "50%"> <img src="assets/paul.svg" height = "50%"/> </a>
+</p>
 
 
 
