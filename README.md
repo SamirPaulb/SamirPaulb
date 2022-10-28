@@ -2,11 +2,9 @@
   <a href="#"> <img src="assets/welcome.svg"/> </a>
 </p>
 
-
 <p align="center">
   <a href="#"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
 </p>
-
 
 
 <b>*About Me*:</b> 
@@ -15,18 +13,15 @@
   💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
   👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
-  ✉️ &nbsp;Get in touch with me via email at ```samirpaulb@gmail.com``` or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
+  ✉️ &nbsp;Get in touch with me via email at ```samirpaulb [at] gmail.com``` or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
 
 
 <b>*Connect With Me*:</b> 
 
-[<img align="left" alt="LinkedIn" width="25px" src="assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="25px" src="assets/twitter.svg" />][twitter]
+[<img alt="LinkedIn" width="25px" src="assets/linkedin.svg">](https://www.linkedin.com/in/SamirPaul) &nbsp; 
+[<img alt="Twitter" width="25px" src="assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=SamirPaulb)
 
-<br />
-<br />
-
-
+ <b> </b>
 
 <b>*GitHub Stats*:</b> 
   
@@ -122,21 +117,3 @@
 <p align=center>                           
   <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
 </p>
-  
-  
-  
-
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/SamirPaul
-[twitter]: https://twitter.com/intent/follow?screen_name=SamirPaulb
-[email]: mailto:samirpaulb@gmail.com
-[instagram]: https://www.instagram.com/SamirPaulb
-[facebook]: https://www.facebook.com/SamirPaulb
-[whatsapp]: https://wa.me/91**********?text=Hello%20Samir
-[leetcode]: https://leetcode.com/samirpaul1
-[hackerrank]: https://www.hackerrank.com/samirpaul1
-[codechef]: https://www.codechef.com/users/samirpaul1
-[geeksforgeeks]: https://auth.geeksforgeeks.org/user/samirpaul1/practice
