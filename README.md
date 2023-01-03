@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="#"> <img src="assets/welcome.svg"/> </a>
+  <a href="https://github.com/SamirPaul1"> <img src="assets/welcome.svg"/> </a>
 </p>
 
 <p align="center">
-  <a href="#"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
+  <a href="https://github.com/SamirPaul1"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
 </p>
 
 
@@ -53,7 +53,7 @@
 
 <p align="center">
   
-<a href="#"> 
+<a href="https://github.com/SamirPaul1"> 
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png"> 
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
 <img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
@@ -79,5 +79,5 @@
 
   
 <p align=center>                           
-  <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
+  <a href="https://github.com/SamirPaul1"><img align=center  src="https://hits.sh/github.com/SamirPaul1.svg?label=Visitors&extraCount=20000&color=526afd&labelColor=0b861a" alt="Visitors"></a>     
 </p>
