@@ -61,5 +61,5 @@
 
   
 <p align=center>                           
-  <a href="https://github.com/SamirPaul1"><img align=center  src="https://hits.sh/github.com/SamirPaul1.svg?label=Visitors&extraCount=20000&color=526afd&labelColor=0b861a" alt="Visitors"></a>     
+  <a href="https://github.com/SamirPaul1"><img align=center  src="https://hits.sh/github.com/SamirPaul1.svg?label=Visitors&extraCount=20000&color=526afd&labelColor=0b861a" alt="Visitors"></a>  <img src="https://komarev.com/ghpvc/?username=SamirPaul1"  width="1" height="1" />     
 </p>
