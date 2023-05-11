@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SamirPaul1"> <img loading="lazy" alt="Welcome" src="https://scdn.netlify.app/profile-readme/welcome.svg"/> </a>
+  <a href="https://github.com/SamirPaul1"> <img loading="lazy" alt="Welcome" src="assets/welcome.svg"/> </a>
 </p>
 
 <p align="center">
