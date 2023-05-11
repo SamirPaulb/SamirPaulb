@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SamirPaul1"> <img src="assets/welcome.svg"/> </a>
+  <a href="https://github.com/SamirPaul1"> <img loading="lazy" src="assets/welcome.svg"/> </a>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 <b>*Connect With Me*:</b> 
 
-[<img alt="LinkedIn" width="25px" src="assets/linkedin.svg">](https://www.linkedin.com/in/SamirPaul) &nbsp; 
-[<img alt="Twitter" width="25px" src="assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=SamirPaulb)
+[<img loading="lazy" alt="LinkedIn" width="25px" src="assets/linkedin.svg">](https://www.linkedin.com/in/SamirPaul) &nbsp; 
+[<img loading="lazy" alt="Twitter" width="25px" src="assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=SamirPaulb)
 
  <b> </b>
 
@@ -34,12 +34,12 @@
   
   <td>
   <a href="https://github.com/SamirPaul1">
-  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=SamirPaul1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
   </a>
   </td>
     
   <td> 
-<a href="https://github.com/SamirPaul1"><img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
+<a href="https://github.com/SamirPaul1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
   </td>
     
 </tr>
@@ -61,5 +61,5 @@
 
   
 <p align=center>                           
-  <a href="https://github.com/SamirPaul1"><img align=center  src="https://hits.sh/github.com/SamirPaul1.svg?label=Visitors&extraCount=20000&color=526afd&labelColor=0b861a" alt="Visitors"></a>  <img src="https://komarev.com/ghpvc/?username=SamirPaul1"  width="1" height="1" />     
+  <a href="https://github.com/SamirPaul1"><img loading="lazy" src="https://hits.sh/github.com/SamirPaul1.svg?label=Visitors&extraCount=20000&color=526afd&labelColor=0b861a" alt="Visitors"></a>  <img loading="lazy" src="https://komarev.com/ghpvc/?username=SamirPaul1"  width="1" height="1" />     
 </p>
