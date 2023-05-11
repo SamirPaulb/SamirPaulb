@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/SamirPaul1"> <img loading="lazy" src="https://scdn.netlify.app/profile-readme/welcome.svg"/> </a>
+  <a href="https://github.com/SamirPaul1"> <img loading="lazy" alt="Welcome" src="https://scdn.netlify.app/profile-readme/welcome.svg"/> </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SamirPaul1"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
+  <a href="https://github.com/SamirPaul1"> <img loading="lazy" alt="Samir" src="assets/samir.svg"/> <img loading="lazy" alt="Paul" src="assets/paul.svg"/> </a>
 </p>
 
 <p align="center">
