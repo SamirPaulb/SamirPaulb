@@ -66,5 +66,5 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
 <img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="assets/skills.svg" />
 </a> 
   <br>
-<a href="https://github.com/SamirPaul1"><img width="100%" height="2" loading="lazy" src="assets/long-colour-linestrip.png" /></a>
+<a href="https://github.com/SamirPaul1"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
 </p>  
