@@ -5,7 +5,7 @@ on:
   schedule: [{cron: "0 0 */7 * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: "main"}
+  push: {branches: ["master", "main"]}}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
