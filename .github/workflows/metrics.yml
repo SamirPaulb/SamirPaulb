@@ -13,7 +13,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-		  - repo
           # Options
           user: SamirPaul1
           template: classic
