@@ -18,7 +18,6 @@ jobs:
           user: SamirPaul1
           template: classic
           base: activity, metadata
-          config_timezone: Asia/Calcutta
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
