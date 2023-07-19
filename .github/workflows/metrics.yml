@@ -50,5 +50,5 @@ jobs:
           # plugin_traffic: yes
           repositories_forks: yes
           plugin_topics: yes
-          plugin_topics_limit: 15
+          plugin_topics_limit: 25
           plugin_topics_mode: icons
