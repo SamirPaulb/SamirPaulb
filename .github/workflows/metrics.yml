@@ -17,14 +17,11 @@ jobs:
           # Options
           user: SamirPaul1
           template: classic
-          base: activity, community, repositories, metadata
+          base: activity, metadata
           config_timezone: Asia/Calcutta
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_ignored: html, css
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 15
           plugin_topics_mode: icons
