@@ -52,5 +52,7 @@ jobs:
           plugin_lines_history_limit: 75
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_lines_skipped: blog-jekyll
           plugin_traffic: yes
+          plugin_traffic_skipped: blog-jekyll
           repositories_forks: yes
