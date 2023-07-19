@@ -28,3 +28,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
+          plugin_lines: yes
+          plugin_lines_history_limit: 0
+          plugin_traffic: yes
