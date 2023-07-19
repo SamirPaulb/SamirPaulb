@@ -1,18 +1,20 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  schedule:
-    - cron: "0 0 */7 * *"
-  push:
-    branches: "main"
+  # Schedule updates
+  schedule: [{cron: "0 0 */7 * *"}]
+  push: {branches: "main"}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
+          # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+		  
           # Options
           user: SamirPaul1
           template: classic
@@ -32,15 +34,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 15
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 10000
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_history_limit: 75
-          plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_lines_skipped: blog-jekyll
           plugin_traffic: yes
-          plugin_traffic_skipped: blog-jekyll
           repositories_forks: yes
