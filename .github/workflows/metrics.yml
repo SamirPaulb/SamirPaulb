@@ -1,29 +1,18 @@
-# https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates
   schedule: [{cron: "0 0 */7 * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}}
+  push: {branches: "main"}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: SamirPaul1
@@ -41,14 +30,10 @@ jobs:
           plugin_languages_details: bytes-size, lines
           plugin_languages_ignored: html, css
           plugin_languages_indepth: yes
-          plugin_languages_limit: 15
-          plugin_languages_other: yes
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_sections: base
-          # plugin_traffic: yes
           repositories_forks: yes
           plugin_topics: yes
-          plugin_topics_limit: 25
           plugin_topics_mode: icons
