@@ -38,23 +38,9 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
   <b> </b> 
   
   
-<p align="center">
-<table>
-<tr>
-  
-  <td>
   <a href="https://github.com/SamirPaul1">
-  <img align="center" fetchpriority="high" src="https://github-readme-stats-samirpaul.vercel.app/api?username=SamirPaul1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+  <img align="center"  width="100%" loading="lazy" src="github-metrics.svg" alt="Github Stats" />
   </a>
-  </td>
-    
-  <td> 
-<a href="https://github.com/SamirPaul1"><img align="center" fetchpriority="high" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
-  </td>
-    
-</tr>
-</table>
-</p>
   
   
 <b>*Languages and Tools*:</b>
