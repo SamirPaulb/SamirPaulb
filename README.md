@@ -19,7 +19,6 @@ https://img.shields.io/badge/-LinkedIn%20@SamirPaul-white?style=social&logo=Link
 https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twitter&logoColor=blue&link=https://www.twitter.com/SamirPaulb 
 -->
 
-
 <b>*About Me*:</b> 
 
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
@@ -28,26 +27,14 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
   👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
   ✉️ &nbsp;Get in touch with me via email at samirpaulb@gmail.com.
 
-
-
-
  <b> </b>
 
 <b>*GitHub Stats*:</b> 
   
   <b> </b> 
-  
-  
+
   <a href="https://github.com/SamirPaul1">
   <img align="center"  width="100%" loading="lazy" src="github-metrics.svg" alt="Github Stats" />
   </a>
   
-  
-<b>*Languages and Tools*:</b>
-  
-<b> </b>  
-
-<a href="https://github.com/SamirPaul1"> 
-<img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" width="100%" src="assets/skills.svg" />
-</a> 
 <a href="https://github.com/SamirPaul1"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
