@@ -47,7 +47,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_sections: base
-          plugin_traffic: yes
+          # plugin_traffic: yes
           repositories_forks: yes
           plugin_topics: yes
           plugin_topics_limit: 15
