@@ -24,6 +24,7 @@ jobs:
           config_timezone: Asia/Calcutta
           plugin_languages: yes
           plugin_languages_limit: 0
+          plugin_languages_ignored: html, css
           repositories_forks: yes
           plugin_topics: yes
           plugin_topics_mode: mastered
