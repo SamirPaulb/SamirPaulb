@@ -15,7 +15,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: SamirPaul1
+          user: SamirPaulb
           template: classic
           base: activity, repositories, metadata
           base_hireable: yes
