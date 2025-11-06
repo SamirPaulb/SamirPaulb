@@ -20,7 +20,7 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
 -->
 
 <p align="center">
-<a href="https://github.com/SamirPaulb"><img align="center"  width="100%" loading="lazy" src="/github-metrics.svg" alt="Github Stats" /></a>
+<a href="https://github.com/SamirPaulb"><img align="center"  width="100%" loading="lazy" src="/metrics.svg" alt="Github Stats" /></a>
 </p>
  
 <!-- <a href="https://github.com/SamirPaulb"><img width="100%" loading="lazy" src="/assets/rainbow-superthin.webp" /></a> -->
