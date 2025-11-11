@@ -2,17 +2,17 @@ name: Metrics
 
 on:
   schedule:
-    # Run every 7 days at 00:00 UTC to reduce rate-limit pressure
+    # Run every 7 days at 00:00 UTC to reduce token usage and rate-limit pressure
     - cron: "0 0 */7 * *"
   push:
     branches: [ "main" ]
   workflow_dispatch:
 
-# Default to least privilege; escalate per-job only when needed
+# Default to least-privilege; escalate only where needed
 permissions:
   contents: read
 
-# Prevent overlapping runs for the same ref to avoid commit races
+# Prevent overlapping runs per ref (reduces race conditions on committing metrics.svg)
 concurrency:
   group: metrics-${{ github.ref }}
   cancel-in-progress: true
@@ -22,30 +22,26 @@ jobs:
     name: Generate metrics
     runs-on: ubuntu-latest
 
-    # Fail fast if something stalls
+    # Fail fast if something stalls; metrics calls APIs and renders SVG
     timeout-minutes: 15
 
-    # This job needs to commit the generated metrics.svg
+    # Escalate only here so the Action can commit the generated metrics.svg
     permissions:
       contents: write
 
     steps:
-      # Pin the action to a full-length commit SHA (immutable, safer than tags)
+      # Pin the action to a full-length commit SHA (immutable)
       # Commit: 65836723097537a54cd8eb90f61839426b4266b6
       - name: Run lowlighter/metrics (SHA pinned)
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
-          # Personal token for Metrics features that require API access
-          # IMPORTANT for org + languages:
-          # - If you want organization repositories included: add read:org
-          # - If you want private org/personal repos included in languages and stats: add repo
-          # - If your org enforces SAML SSO: authorize this token for that org in Configure SSO
+          # Personal token for Metrics features that require API access; store as a repository secret
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Auto-generated token used for committing the SVG to the repo
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Core options
+          # Options
           user: SamirPaulb
           filename: metrics.svg
           template: classic
@@ -55,29 +51,17 @@ jobs:
           config_display: large
           config_timezone: Asia/Kolkata
 
-          # Include org contributions: consider owner, collaborator, and org-member repos
-          # Note: token must be allowed to read your org repos (and private ones if needed)
-          repositories_affiliations: owner, collaborator, organization_member
-
-          # Count forks in stats (optional; you already had this enabled)
-          repositories_forks: yes
-
-          # Languages plugin (ensure it renders even for small shares)
+          # Language & topics plugins (tuned)
           plugin_languages: yes
-          # Set a clear limit instead of 0 to avoid edge cases on some versions
-          plugin_languages_limit: 24
-          # Keep your previous ignores
+          plugin_languages_limit: 0
           plugin_languages_ignored: html, css
-          # Show even tiny languages by lowering threshold
-          plugin_languages_threshold: 0%
-          # Use default (non-indepth) to avoid timeouts across many org repos
-          plugin_languages_indepth: no
 
-          # Topics and other plugins you used
+          repositories_forks: yes
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
 
+          # Lines and traffic plugins
           plugin_lines: yes
           plugin_lines_history_limit: 0
           plugin_traffic: yes
