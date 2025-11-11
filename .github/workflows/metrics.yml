@@ -2,17 +2,17 @@ name: Metrics
 
 on:
   schedule:
-    # Run every 7 days at 00:00 UTC to reduce token usage and rate-limit pressure
+    # Run every 7 days at 00:00 UTC to reduce rate-limit pressure
     - cron: "0 0 */7 * *"
   push:
     branches: [ "main" ]
   workflow_dispatch:
 
-# Default to least-privilege; escalate only where needed
+# Default to least privilege; escalate per-job only when needed
 permissions:
   contents: read
 
-# Prevent overlapping runs per ref (reduces race conditions on committing metrics.svg)
+# Prevent overlapping runs for the same ref to avoid commit races
 concurrency:
   group: metrics-${{ github.ref }}
   cancel-in-progress: true
@@ -22,26 +22,27 @@ jobs:
     name: Generate metrics
     runs-on: ubuntu-latest
 
-    # Fail fast if something stalls; metrics calls APIs and renders SVG
+    # Fail fast if something stalls
     timeout-minutes: 15
 
-    # Escalate only here so the Action can commit the generated metrics.svg
+    # This job needs to commit the generated metrics.svg
     permissions:
       contents: write
 
     steps:
-      # Pin the action to a full-length commit SHA (immutable)
+      # Pin the action to a full-length commit SHA (immutable, safer than tags)
       # Commit: 65836723097537a54cd8eb90f61839426b4266b6
       - name: Run lowlighter/metrics (SHA pinned)
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
-          # Personal token for Metrics features that require API access; store as a repository secret
+          # Personal token for Metrics features that require API access
+          # Recommended scopes if you want org repos considered: read:org (+ repo for private repos)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Auto-generated token used for committing the SVG to the repo
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Options
+          # Core options
           user: SamirPaulb
           filename: metrics.svg
           template: classic
@@ -51,7 +52,10 @@ jobs:
           config_display: large
           config_timezone: Asia/Kolkata
 
-          # Language & topics plugins (tuned)
+          # Include org contributions: consider owner, collaborator, and org-member repos
+          repositories_affiliations: owner, collaborator, organization_member
+
+          # Language & topics plugins
           plugin_languages: yes
           plugin_languages_limit: 0
           plugin_languages_ignored: html, css
