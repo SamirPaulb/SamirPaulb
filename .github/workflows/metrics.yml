@@ -36,7 +36,10 @@ jobs:
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           # Personal token for Metrics features that require API access
-          # Recommended scopes if you want org repos considered: read:org (+ repo for private repos)
+          # IMPORTANT for org + languages:
+          # - If you want organization repositories included: add read:org
+          # - If you want private org/personal repos included in languages and stats: add repo
+          # - If your org enforces SAML SSO: authorize this token for that org in Configure SSO
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Auto-generated token used for committing the SVG to the repo
@@ -53,19 +56,28 @@ jobs:
           config_timezone: Asia/Kolkata
 
           # Include org contributions: consider owner, collaborator, and org-member repos
+          # Note: token must be allowed to read your org repos (and private ones if needed)
           repositories_affiliations: owner, collaborator, organization_member
 
-          # Language & topics plugins
-          plugin_languages: yes
-          plugin_languages_limit: 0
-          plugin_languages_ignored: html, css
-
+          # Count forks in stats (optional; you already had this enabled)
           repositories_forks: yes
+
+          # Languages plugin (ensure it renders even for small shares)
+          plugin_languages: yes
+          # Set a clear limit instead of 0 to avoid edge cases on some versions
+          plugin_languages_limit: 24
+          # Keep your previous ignores
+          plugin_languages_ignored: html, css
+          # Show even tiny languages by lowering threshold
+          plugin_languages_threshold: 0%
+          # Use default (non-indepth) to avoid timeouts across many org repos
+          plugin_languages_indepth: no
+
+          # Topics and other plugins you used
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
 
-          # Lines and traffic plugins
           plugin_lines: yes
           plugin_lines_history_limit: 0
           plugin_traffic: yes
