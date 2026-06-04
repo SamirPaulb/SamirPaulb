@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/SamirPaul"><img loading="lazy" alt="LinkedIn" src="/assets/linkedin-samirpaul.svg"></a> &nbsp; 
   <a href="https://twitter.com/SamirPaulb"><img loading="lazy" alt="Twitter" src="/assets/twitter-samirpaulb.svg"></a> &nbsp; 
-  <a href="https://github.com/SamirPaulb"><img loading="lazy" alt="Views" src="https://web.samirpaul.workers.dev/views?page=samirpaul&style=classic"></a> 
+  <a href="https://github.com/SamirPaulb"><img loading="lazy" alt="Views" src="https://web.samirpaul.workers.dev/views/svg?page=samirpaul&style=classic"></a> 
 </p>
 
 <!-- 
