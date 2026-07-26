@@ -7,8 +7,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SamirPaul"><img loading="lazy" alt="LinkedIn" src="/assets/linkedin-samirpaul.svg"></a> &nbsp; 
-  <a href="https://x.com/iSamirPaul"><img loading="lazy" alt="X/Twitter" src="/assets/X-iSamirPaul.svg"></a> &nbsp; 
+  <a href="https://www.linkedin.com/in/SamirPaul"><img loading="lazy" alt="LinkedIn @SamirPaul" src="/assets/linkedin-samirpaul.svg"></a> &nbsp; 
+  <a href="https://x.com/iSamirPaul"><img loading="lazy" alt="X/Twitter @iSamirPaul" src="/assets/x-isamirpaul.svg"></a> &nbsp; 
   <a href="https://github.com/SamirPaulb"><img loading="lazy" alt="Views" src="https://web.samirpaul.workers.dev/views/svg?page=samirpaul&style=classic"></a> 
 </p>
 
