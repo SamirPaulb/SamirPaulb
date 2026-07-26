@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
 
     # Fail fast if something stalls; metrics calls APIs and renders SVG
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     # Escalate only here so the Action can commit the generated metrics.svg
     permissions:
