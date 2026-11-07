@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-  <a href="#"><img loading="lazy" alt="Email" src="/assets/contact-email.svg"></a> &nbsp; 
+  <a href="#"><img loading="lazy" alt="Email" src="/assets/contact-email.svg" width="170"></a> &nbsp; 
   <a href="https://www.linkedin.com/in/SamirPaul"><img loading="lazy" alt="LinkedIn @SamirPaul" src="/assets/linkedin-samirpaul.svg"></a> &nbsp; 
   <a href="https://github.com/SamirPaulb"><img loading="lazy" alt="Views" src="https://web.spq.workers.dev/views/svg?page=samirpaul&style=classic"></a> 
 </p>
